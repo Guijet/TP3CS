@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  DLL.cpp
+c:\users\guertz\google drive\session 5\clientserveur\serveur\serveur\dll\dll.h(27): warning C4091: 'static ' : ignoré à gauche de 'Verification' quand aucune variable n'est déclarée
+c:\users\guertz\google drive\session 5\clientserveur\serveur\serveur\dll\dll.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: voir la déclaration de 'strcpy'
+c:\users\guertz\google drive\session 5\clientserveur\serveur\serveur\dll\dll.cpp(61): warning C4018: '<=' : incompatibilité signed/unsigned
+c:\users\guertz\google drive\session 5\clientserveur\serveur\serveur\dll\dll.cpp(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: voir la déclaration de 'strcpy'
+c:\users\guertz\google drive\session 5\clientserveur\serveur\serveur\dll\dll.cpp(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: voir la déclaration de 'strcpy'
+  Génération de code en cours...
+  dllmain.cpp
+     Création de la bibliothèque C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Debug\DLL.lib et de l'objet C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Debug\DLL.exp
+  DLL.vcxproj -> C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Debug\DLL.dll
+  DLL.vcxproj -> C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Debug\DLL.pdb (Partial PDB)

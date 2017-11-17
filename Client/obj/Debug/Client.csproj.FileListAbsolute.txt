@@ -1,0 +1,29 @@
+c:\users\guijet\documents\visual studio 2017\Projects\Serveur\Client\bin\Debug\Client.exe.config
+c:\users\guijet\documents\visual studio 2017\Projects\Serveur\Client\bin\Debug\Client.exe
+c:\users\guijet\documents\visual studio 2017\Projects\Serveur\Client\bin\Debug\Client.pdb
+c:\users\guijet\documents\visual studio 2017\Projects\Serveur\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\guijet\documents\visual studio 2017\Projects\Serveur\Client\obj\Debug\Client.exe
+c:\users\guijet\documents\visual studio 2017\Projects\Serveur\Client\obj\Debug\Client.pdb
+C:\Users\Guijet\Desktop\Serveur\Client\bin\Debug\Client.exe.config
+C:\Users\Guijet\Desktop\Serveur\Client\bin\Debug\Client.exe
+C:\Users\Guijet\Desktop\Serveur\Client\bin\Debug\Client.pdb
+C:\Users\Guijet\Desktop\Serveur\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Guijet\Desktop\Serveur\Client\obj\Debug\Client.exe
+C:\Users\Guijet\Desktop\Serveur\Client\obj\Debug\Client.pdb
+C:\Users\Guijet\Desktop\Serveur\Serveur\Client\bin\Debug\Client.exe.config
+C:\Users\Guijet\Desktop\Serveur\Serveur\Client\bin\Debug\Client.exe
+C:\Users\Guijet\Desktop\Serveur\Serveur\Client\bin\Debug\Client.pdb
+C:\Users\Guijet\Desktop\Serveur\Serveur\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Guijet\Desktop\Serveur\Serveur\Client\obj\Debug\Client.exe
+C:\Users\Guijet\Desktop\Serveur\Serveur\Client\obj\Debug\Client.pdb
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Client\bin\Debug\Client.exe.config
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Client\bin\Debug\Client.exe
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Client\bin\Debug\Client.pdb
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Client\obj\Debug\Client.exe
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Client\obj\Debug\Client.pdb
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\Serveur\Serveur\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\TP3-Client-Serveur\Client\bin\Debug\Client.exe.config
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\TP3-Client-Serveur\Client\obj\Debug\Client.exe
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\TP3-Client-Serveur\Client\obj\Debug\Client.pdb
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\TP3-Client-Serveur\Client\bin\Debug\Client.exe
+C:\Users\guertz\Google Drive\Session 5\ClientServeur\TP3-Client-Serveur\Client\bin\Debug\Client.pdb
